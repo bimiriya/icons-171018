@@ -1,0 +1,42 @@
+body {
+	font-family: 'Roboto Slab', serif;
+	margin-left: 10%;
+}
+
+span {
+	border-bottom: 5px solid black;
+}
+
+.icons {
+	display: inline-block;
+	width: 27%;
+	position: relative;
+	margin: 2%;
+	
+}
+
+img {
+	width: 100%;
+	position: relative;
+	border-radius: 2%;
+}
+
+section {
+	width: 60%;
+	height: 100%;
+	position: relative;
+
+}
+
+
+h5 {
+	position: absolute;
+	font-weight: thin;
+	z-index: 2;
+	color: white;
+	text-shadow: 1px 1px black;
+	bottom: 10%;
+	right: 10%;
+	margin: 0 auto;
+	font-size: 1.2vw;
+}
